@@ -1,8 +1,0 @@
-C:\Users\Mohammed_Afraaz\source\repos\CollectionsExamples\ArrayListExample\obj\Debug\ArrayListExample.csproj.AssemblyReference.cache
-C:\Users\Mohammed_Afraaz\source\repos\CollectionsExamples\ArrayListExample\obj\Debug\ArrayListExample.csproj.SuggestedBindingRedirects.cache
-C:\Users\Mohammed_Afraaz\source\repos\CollectionsExamples\ArrayListExample\obj\Debug\ArrayListExample.csproj.CoreCompileInputs.cache
-C:\Users\Mohammed_Afraaz\source\repos\CollectionsExamples\ArrayListExample\bin\Debug\ArrayListExample.exe.config
-C:\Users\Mohammed_Afraaz\source\repos\CollectionsExamples\ArrayListExample\bin\Debug\ArrayListExample.exe
-C:\Users\Mohammed_Afraaz\source\repos\CollectionsExamples\ArrayListExample\bin\Debug\ArrayListExample.pdb
-C:\Users\Mohammed_Afraaz\source\repos\CollectionsExamples\ArrayListExample\obj\Debug\ArrayListExample.exe
-C:\Users\Mohammed_Afraaz\source\repos\CollectionsExamples\ArrayListExample\obj\Debug\ArrayListExample.pdb
